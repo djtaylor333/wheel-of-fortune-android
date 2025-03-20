@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wheel of Fortune Solver</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="upload_photo">Upload Photo</string>
+    <string name="solve_puzzle">Solve Puzzle</string>
+    <string name="suggested_letters">Suggested Letters</string>
+    <string name="puzzle_clue">Puzzle Clue</string>
+    <string name="enter_clue_hint">Enter puzzle clue/category</string>
+    <string name="enter_visible_letters">Enter visible letters (use ? for blanks)</string>
+    <string name="camera_permission_required">Camera permission is required</string>
+    <string name="storage_permission_required">Storage permission is required</string>
+    <string name="processing_image">Processing image...</string>
+    <string name="solving_puzzle">Solving puzzle...</string>
+    <string name="no_text_detected">No text detected. Try again.</string>
+</resources>
